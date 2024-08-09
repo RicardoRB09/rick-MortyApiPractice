@@ -2,7 +2,7 @@
 
 This script corresponds to a practice of Rick & Morty API requesting. 
 
-[API](https://duckduckgo.com](https://rickandmortyapi.com/)
+API: https://duckduckgo.com](https://rickandmortyapi.com/
 
 ## Installation guide
 1. Create a virtual environment and install the requirements.txt
